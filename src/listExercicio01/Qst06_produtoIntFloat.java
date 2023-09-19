@@ -9,8 +9,8 @@ public class Qst06_produtoIntFloat {
             inteiro *= i;
             flutuante *= i;
 
-            System.out.println(inteiro);
-            System.out.println(flutuante);
+            System.out.println("inteiro " + inteiro);
+            System.out.println("flutuante " + flutuante);
         }
 
     }
