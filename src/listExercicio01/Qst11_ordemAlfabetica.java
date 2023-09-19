@@ -36,13 +36,5 @@ public class Qst11_ordemAlfabetica {
             System.out.println("As palavras possuem o mesmo tamanho.");
         }
 
-
-
-
-
-
-
-
-
     }
 }
