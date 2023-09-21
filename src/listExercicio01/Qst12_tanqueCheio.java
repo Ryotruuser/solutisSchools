@@ -9,7 +9,7 @@ public class Qst12_tanqueCheio {
         int consumo = 0;
         double media = 0;
         int totQuilometors = 0;
-        
+
 
     }
 }
