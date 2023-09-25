@@ -1,6 +1,6 @@
 package listaExercicio03;
 import java.util.Scanner;
-public class Qst04_dataNasc {
+public class Qst16_dataNasc {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 

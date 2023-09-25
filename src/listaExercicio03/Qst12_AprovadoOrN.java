@@ -2,7 +2,7 @@ package listaExercicio03;
 import java.util.Scanner;
 import java.math.BigDecimal;
 
-public class Qst03_AprovadoOrN {
+public class Qst12_AprovadoOrN {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         double media = 0;

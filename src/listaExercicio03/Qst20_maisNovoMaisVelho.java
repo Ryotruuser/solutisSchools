@@ -1,7 +1,7 @@
 package listaExercicio03;
 import java.util.Scanner;
 
-public class Qst05_maisNovoMaisVelho {
+public class Qst20_maisNovoMaisVelho {
     public static class Pessoa{
         public String nome;
         public int idade;

@@ -1,7 +1,7 @@
 package listaExercicio03;
 import java.util.Scanner;
 
-public class Qst02_racional {
+public class Qst08_racional {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
